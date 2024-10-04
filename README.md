@@ -86,25 +86,6 @@ CREATE TABLE contacts (
   <img src="https://user-images.githubusercontent.com/81585804/204807317-1a3edabd-d173-436e-b0a9-080d59ac7104.gif" alt="Screenshots" width="70%" height="70%">
 </p><br>
 
-
-<h2 id="how_to_run"> :running: HOW TO RUN</h2>
-1.Fork this repository.
-
- ```console
-git clone https://github.com/MelihGulum/Music-Genre-Classification.git
-```
-
-2.Load the dependencies of the project
-
-```console
-pip install -r requirements.txt
-```
-
-3.Now you can run project.
-
-```console
-flask --app MGC_flask.py --debug run
-```
  
 
 
